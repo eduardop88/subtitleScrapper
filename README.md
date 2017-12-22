@@ -1,0 +1,2 @@
+# subtitleScrapper
+Automatic Subtitle Finder
